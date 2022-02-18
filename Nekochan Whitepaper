@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome file</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="nekochan-whitepaper">Nekochan Whitepaper</h1>
+<h2 id="what-is-nekochan">What is Nekochan</h2>
+<p>Every Nekochan is a pretty girl with cat ears.</p>
+<p>Nekochan is a special upgradable NFT.</p>
+<p>Every Nekochan holder will become a membership.</p>
+<p>Every max level Nekochan holder will become one with the DAO.</p>
+<p>Max level Nekochan can go to work（stake).</p>
+<p>Members have voting rights and DAO can share profits.</p>
+<p>The vision of the Nekochan project is to give all DAOs free coffee for life.</p>
+<h2 id="pre-sale">Pre-sale</h2>
+<ul>
+<li>
+<p>Total 10,000 Nekochan NFT.</p>
+</li>
+<li>
+<p>Adopt (Mint) price 0.01 ether/Nekochan NFT.</p>
+</li>
+<li>
+<p>Free NekoChan Feed Token (NCFT) in pre-sale</p>
+</li>
+<li>
+<p>Adopt 5 Nekochan NFT at a time and will get 1500 NCFT</p>
+</li>
+</ul>
+<h4 id="nekochan-feed-token-ncft--allocation">NekoChan Feed Token (NCFT)  allocation</h4>
+<p><img src="https://nekochan.club/neko_img/NCFT.png" alt="NCFT"></p>
+<p>*After pre-sale will add Uniswap liquidity pool(NCFT-USDC)<br>
+*The free NCFT will only be used for upgrades.</p>
+<h2 id="upgrade--stake">Upgrade &amp; Stake</h2>
+<p>Every Nekochan can upgrade by feed NCFT.</p>
+<p>Nekochan background image will get more advanced with each upgrade.</p>
+<p>Nekochan above level 5 are capable of working (stake).</p>
+<p>The maxlevel in the pre-sale version Nekochan is level 5.</p>
+<p>In the first pre-sale version 12,000,000 (40%) NekoChan Feed Token can be produced by work（stake).</p>
+<p>The next version will unlock 13,500,000(45%) levels 6 to 10, feature details will be announced after all DAO members vote.</p>
+<h3 id="no-need-worry-about-workstake">No need worry about work(stake)</h3>
+<p>No transfer or authorization required go to work, only make sure Nekochan in your Ethereum wallet.</p>
+<p>At work you can still sell your NFT on OpenSea or other platforms.</p>
+<p>When a NFT transfer happend, work will stop. Only new owner can let Nekochan back to work.</p>
+<p>All NCFT during the upgrade will now be diverted to the black hole address.</p>
+<h4 id="nekochan-upgrade-table">Nekochan upgrade table</h4>
+
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Feed(NCFT)</th>
+<th>State</th>
+<th>Profession</th>
+<th>work(NCFT/Day)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0</td>
+<td>no need</td>
+<td>nursling</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>1</td>
+<td>100</td>
+<td>baby</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>200</td>
+<td>child</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>3</td>
+<td>300</td>
+<td>early youth</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>4</td>
+<td>400</td>
+<td>youth</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>5</td>
+<td>500</td>
+<td>adult</td>
+<td>waiter</td>
+<td>100</td>
+</tr>
+<tr>
+<td>6</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>7</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>8</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>9</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>10</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</tbody>
+</table><h2 id="the-economic-cycle">The economic cycle</h2>
+<p><img src="https://nekochan.club/neko_img/neko_cycle.png" alt="Nekochan Cycle"></p>
+<h2 id="make-dao-with-nekochan-coffee-token">Make DAO with NekoChan coffee Token</h2>
+<ul>
+<li>After make DAO is successful, the NekoChan coffee Token(NCCT) will issue.</li>
+<li>Release rules are determined by how DAO proposals are voted on.</li>
+<li>To ensure fairness, each NekoChan NFT holder can only receive one allocation of NCCT.</li>
+</ul>
+<h2 id="roadmap">Roadmap</h2>
+<ul>
+<li>
+<p>2022</p>
+<pre><code> Q1 Airdrop &amp; Whitelist &amp; Presale
+
+ Q2 List on Uniswap &amp; stake award for Lv5 Neko
+
+ Q3 ~ Q4 Feature vote by DAO &amp; Lv10 version
+</code></pre>
+</li>
+<li>
+<p>2023</p>
+<pre><code> Q1 Make DAO &amp; Divide Neko coffee Token &amp; List on uniswap
+
+ Q2 ~ Q3 List on EX (e.g. coinbase)
+
+ Q4 buy coffee production line &amp; Make coffee sampler 
+</code></pre>
+</li>
+<li>
+<p>2024</p>
+<pre><code> Q1 ~ Q3 Coffee sampler airdrop &amp; Nekochan coffee start open for sale
+
+ Q4 Free Nekochan coffee to DAO
+</code></pre>
+</li>
+<li>
+<p>Farther</p>
+<pre><code> Free Nekochan coffee to DAO &amp; Distribute profits with DAO from coffee sales
+</code></pre>
+</li>
+</ul>
+<h2 id="make-decentralized-autonomous-organizationdao">Make Decentralized Autonomous Organization(DAO)</h2>
+<ul>
+<li>Member-owned communities without centralized leadership.</li>
+<li>Total anonymous.</li>
+<li>Make A safe place to commit funds.</li>
+<li>DAO decide the direction of the project, use of funds, share profits and enjoy free coffee together.</li>
+</ul>
+</div>
+</body>
+
+</html>
